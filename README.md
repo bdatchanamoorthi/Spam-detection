@@ -47,7 +47,7 @@ Common dataset used: SMS Spam Collection Dataset
 
 Clone the repository:
 
-git clone https://github.com/your-username/sms-spam-classifier.git
+git clone https://github.com/batchanamoorthi/spam-detection.git
 cd sms-spam-classifier
 
 Install dependencies:
